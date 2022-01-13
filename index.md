@@ -1,8 +1,10 @@
+html - 1
 [Lab Report 1](lab-report-1-week-2.html)
+md - 1
 [Lab Report 1](lab-report-1-week-2.md)
-
-
+html - 2
 [Lab Report 1](https://bhacia.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+md - 2
 [Lab Report 1](https://bhacia.github.io/cse15l-lab-reports/lab-report-1-week-2.md)
 
 # The *Flying* Squirrels
