@@ -1,1 +1,2 @@
-# The **Flying** Squirrels
+# The *Flying* Squirrels
+- CSE 15L Students
